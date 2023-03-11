@@ -22,7 +22,7 @@ using namespace std;
 */
 
 int main() {
-	setlocale(LC_ALL, "spanish"); // Para que nos permita usar las ñ y acentos
+	setlocale(LC_ALL, "spanish"); // para que nos permita usar las ñ y acentos
 	// TYPE CHAR/TIPO CHAR
 	char a = 'b';
 	cout <<"El valor de a es "<< a<<" y su tamaño es de: "<<sizeof(a)<<" byte\n"; // 1 byte
