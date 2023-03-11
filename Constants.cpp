@@ -8,7 +8,7 @@
 // ------ CONSTANTS ZONE / ZONA DE CONSTANTES ------ _ _
 #define PI 3.14                                       //|
 #define TOTAL 20                                      //|
-#define TEXT "APROBADO"                                  //|
+#define TEXT "APROBADO"                               //|
 //_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 using namespace std;
@@ -19,7 +19,6 @@ using namespace std;
 	
 */
 int main() {
-
 	setlocale(LC_ALL,"spanish");
 
 	// CONSTANT INSIDE A FUNCTION / CONSTANTE DENTRO DE UNA FUNCION
