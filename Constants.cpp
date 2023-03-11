@@ -14,9 +14,11 @@
 using namespace std;
 // ------------- CONSTANTS / CONSTANTES -------------
 /*
-	para definir constantes hay que utilizar la palabra #define seguida por el nombre 
+	ES: para definir constantes hay que utilizar la palabra #define seguida por el nombre 
 	generalmente en mayuscula y su valor.. la sintaxis es la siguiente: ===>  #define PI 3.14
-	
+
+	EN: To define constants you must use the word #define followed by the name, generally in 
+	capital letters, and its value. The syntax is as follows: ===> #define PI 3.14	
 */
 int main() {
 	setlocale(LC_ALL,"spanish");
