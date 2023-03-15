@@ -23,7 +23,7 @@ int main() {
 	//primero crearemos un arreglo unidimensional(vector) dinámico
 	int* vector; // al poner el * despues del tipo de dato indicamos que es un puntero
 	//va a ir modificando su tamaño de acuerdo a lo que ingresemos en la variable estudiantes
-	vector = new int[estudiantes]; 
+	vector = new int[estudiantes];
 
 	//creamos arreglo bidimensional(matriz) dinámica
 	int** matriz; // indicando ** decimos que es un puntero hacia punteros
