@@ -13,7 +13,6 @@ PARA PODER RESERVAR LA MEMORIA QUE NECESITEMOS PARA EL ARREGLO DINAMICO
 int main() {
 	setlocale(LC_ALL, "spanish");
 	int estudiantes = 0, curso=0;
-
 	cout << "Ingrese la cantidad de estudiantes: ";
 	cin >> estudiantes;
 	cout << endl;
