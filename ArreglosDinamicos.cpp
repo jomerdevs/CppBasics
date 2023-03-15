@@ -32,7 +32,7 @@ int main() {
 		matriz[i] = new int[curso]; //por cada una de las filas reservamos memoria para las columnas
 	}
 
-	// ---- YA TENEMOS RESERVADOS LOS ESPACIOS DINAMICOS TANTO PARA EL VECTOR Y LA MATRIZ ----
+	// ----- YA TENEMOS RESERVADOS LOS ESPACIOS DINAMICOS TANTO PARA EL VECTOR Y LA MATRIZ -----
 	//ahora podemos usar los valores que se ingresen para llenar y mostrar nuestros arreglos, ej:
 	for (int i = 0; i < estudiantes; i++) {
 		cout << "Ingrese una calificación para el estudiante " << i + 1 << ": ";
