@@ -31,6 +31,11 @@ int main() {
 	cout << "\nIngrese los valores de la segunda matriz: \n";
 	LlenarMatriz(fila, columna, matriz2);
 
+	cout << "\nValores de la primera matriz: \n";
+	imprimirMatriz(fila, columna, matriz1);
+	cout << "\nValores de la segunda matriz: \n";
+	imprimirMatriz(fila, columna, matriz2);
+
 	SumarMatriz(matriz1, matriz2, matrizResultante);
 	cout << "\nLa suma de las matrices es: " << endl;
 	imprimirMatriz(fila, columna, matrizResultante);
